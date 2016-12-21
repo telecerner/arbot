@@ -63,7 +63,7 @@ return {
   description = "Robot and Creator About", 
   usage = "/ver : robot info",
   patterns = {
-    "^[!#/]funhelp$",
+    "^funhelp$",
     
   }, 
   run = run 
